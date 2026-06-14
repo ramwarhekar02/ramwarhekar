@@ -241,7 +241,7 @@ Delivered the complete frontend of PigoPi.com from zero to production. Achieved 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramwarhekar&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=a855f7&text_color=e2e8f0&langs_count=8" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramwarhekar02&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=a855f7&text_color=e2e8f0&langs_count=8" />
 
 </div>
 
