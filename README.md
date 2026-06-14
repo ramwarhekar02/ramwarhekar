@@ -252,7 +252,7 @@ Delivered the complete frontend of PigoPi.com from zero to production. Achieved 
 
 <div align="center">
 
-![Snake animation](https://github.com/ramwarhekar02/ramwarhekar02/blob/output/github-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/ramwarhekar02/ramwarhekar02/output/github-snake-dark.svg)
 
 </div>
 
