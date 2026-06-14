@@ -234,8 +234,6 @@ Delivered the complete frontend of PigoPi.com from zero to production. Achieved 
 <div align="center">
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=ramwarhekar02&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=a855f7&icon_color=7c3aed&text_color=e2e8f0&count_private=true&include_all_commits=true" />
-&nbsp;&nbsp;
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=ramwarhekar02&theme=tokyonight&hide_border=true&background=0d0d0d&ring=a855f7&fire=7c3aed&currStreakLabel=a855f7&sideLabels=e2e8f0&dates=94a3b8&starting_year=2025" />
 
 </div>
 
